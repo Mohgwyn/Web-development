@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(30, 30, 30);
+}
+a {
+    color: white;
+    float: right;
+    padding: 10px;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+form {
+    text-align: center;
+    padding-top: 300px;
+}
+div {
+    padding: 10px;
+}
+#search {
+    width: 500px;
+    height: 20px;
+    border-radius: 8px;
+    border-style: double;
+    background-color: rgb(30, 30, 30);
+    border-color: grey;
+    border-width: 2px;
+    color: white;
+}
+#button {
+    border-radius: 4px;
+    border-style: groove;
+    background-color: rgb(44, 44, 44);
+    color: white;
+}
+#button:hover {
+    border-color: grey;
+    border-width: 3px;
+}
